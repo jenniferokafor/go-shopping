@@ -1,6 +1,8 @@
+import Dashboard from "./Pages/Dashboard";
+
 function App() {
   return (
-    <h1>Love</h1>
+    <Dashboard />
   );
 }
 
